@@ -1,1 +1,1 @@
-# Image-Seach-Application
+# React-Image-search
